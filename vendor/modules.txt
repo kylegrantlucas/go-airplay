@@ -1,0 +1,21 @@
+# github.com/gongo/text-parameters v0.0.0-20140918130233-f049be84e106
+github.com/gongo/text-parameters
+# github.com/kylegrantlucas/go-plist v0.0.0-20190901204612-67f2ba3f4b0b
+github.com/kylegrantlucas/go-plist
+# github.com/mattn/go-runewidth v0.0.4
+github.com/mattn/go-runewidth
+# github.com/miekg/dns v1.1.16
+github.com/miekg/dns
+# github.com/olekukonko/tablewriter v0.0.1
+github.com/olekukonko/tablewriter
+# golang.org/x/crypto v0.0.0-20181001203147-e3636079e1a4
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+# golang.org/x/net v0.0.0-20180926154720-4dfa2610cdf3
+golang.org/x/net/ipv4
+golang.org/x/net/ipv6
+golang.org/x/net/bpf
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+# golang.org/x/sys v0.0.0-20180928133829-e4b3c5e90611
+golang.org/x/sys/unix

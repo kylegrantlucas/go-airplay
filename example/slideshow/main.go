@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/gongo/go-airplay"
+	airplay "github.com/kylegrantlucas/go-airplay"
 )
 
 var opts struct {
